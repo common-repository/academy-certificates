@@ -1,0 +1,341 @@
+# Copyright (C) 2023 Academy LMS
+# This file is distributed under the GPL-3.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Academy Certificates 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/academy-certificates\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-19T10:22:17+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: academy-certificates\n"
+
+#. Plugin Name of the plugin
+msgid "Academy Certificates"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://demo.academylms.net"
+msgstr ""
+
+#. Description of the plugin
+msgid "Award your students with a certificate after finishing a course."
+msgstr ""
+
+#. Author of the plugin
+msgid "Academy LMS"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://academylms.net"
+msgstr ""
+
+#: includes/admin.php:31
+msgid "Activated Certificate"
+msgstr ""
+
+#: includes/admin.php:32
+msgid "Preview"
+msgstr ""
+
+#: includes/admin/example-certificate.php:17
+msgid "Example Template"
+msgstr ""
+
+#: includes/admin/example-certificate.php:29
+msgid "Academy LMS Certificate Template Example"
+msgstr ""
+
+#: includes/admin/example-certificate.php:71
+#: includes/admin/views/meta-settings.php:76
+#: includes/certificate.php:182
+#: includes/certificate/download.php:164
+msgid "Certificate of Completion"
+msgstr ""
+
+#: includes/admin/example-certificate.php:78
+#: includes/certificate.php:190
+#: includes/certificate/download.php:172
+msgid "This is to certify that"
+msgstr ""
+
+#: includes/admin/example-certificate.php:78
+#: includes/certificate.php:190
+#: includes/certificate/download.php:172
+msgid "has completed the course"
+msgstr ""
+
+#: includes/admin/example-certificate.php:85
+#: includes/admin/views/meta-settings.php:176
+msgid "{{course_title}}"
+msgstr ""
+
+#: includes/admin/example-certificate.php:92
+msgid "{{completion_date}} at {{course_place}}"
+msgstr ""
+
+#: includes/admin/example-certificate.php:99
+#: includes/admin/views/meta-settings.php:276
+msgid "{{course_place}}"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:9
+msgid "Default Style"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:15
+#: includes/admin/views/meta-settings.php:56
+#: includes/admin/views/meta-settings.php:106
+#: includes/admin/views/meta-settings.php:156
+#: includes/admin/views/meta-settings.php:206
+#: includes/admin/views/meta-settings.php:256
+msgid "Typography"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:23
+#: includes/admin/views/meta-settings.php:63
+#: includes/admin/views/meta-settings.php:113
+#: includes/admin/views/meta-settings.php:163
+#: includes/admin/views/meta-settings.php:213
+#: includes/admin/views/meta-settings.php:263
+msgid "Color"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:25
+msgid "The default text color for the certificate."
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:35
+msgid "Heading Style"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:41
+#: includes/admin/views/meta-settings.php:91
+#: includes/admin/views/meta-settings.php:141
+#: includes/admin/views/meta-settings.php:191
+#: includes/admin/views/meta-settings.php:241
+msgid "Position"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:43
+msgid "Optional position of the Certificate Heading"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:74
+msgid "Heading Text"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:75
+msgid "Text to display in the heading."
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:85
+msgid "Message Style"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:93
+msgid "Optional position of the Certificate Message"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:124
+msgid "Message Text"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:125
+msgid "Text to display in the message area."
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:126
+msgid "This is to certify that {{learner}} has completed the course"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:135
+msgid "Course Title Style"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:143
+msgid "Optional position of the Course Name"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:174
+msgid "Course Title Text"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:175
+msgid "Text to display in the course area."
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:185
+msgid "Course Complete Date Style"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:193
+msgid "Optional position of the Course Completion date"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:224
+msgid "Course Complete Date Text"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:225
+msgid "Text to display in the course completion date area."
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:226
+msgid "{{completion_date}}"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:243
+msgid "Optional position of the place of Certification."
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:274
+msgid "Course Place Text"
+msgstr ""
+
+#: includes/admin/views/meta-settings.php:275
+msgid "Text to display in the course place area."
+msgstr ""
+
+#: includes/assets.php:31
+msgid "Heading"
+msgstr ""
+
+#: includes/assets.php:32
+msgid "Message"
+msgstr ""
+
+#: includes/assets.php:33
+msgid "Course"
+msgstr ""
+
+#: includes/assets.php:34
+msgid "Completion Date"
+msgstr ""
+
+#: includes/assets.php:35
+msgid "Place"
+msgstr ""
+
+#: includes/assets.php:36
+msgid "Done"
+msgstr ""
+
+#: includes/assets.php:37
+#: includes/database.php:310
+msgid "Set Position"
+msgstr ""
+
+#: includes/certificate.php:156
+msgid "Course Title"
+msgstr ""
+
+#. translators: %s is replaced with the site title
+#: includes/certificate.php:215
+#: includes/certificate/download.php:197
+msgid "At %s"
+msgstr ""
+
+#: includes/database.php:24
+msgctxt "post type general name"
+msgid "Certificate Templates"
+msgstr ""
+
+#: includes/database.php:25
+msgctxt "post type singular name"
+msgid "Certificate Template"
+msgstr ""
+
+#: includes/database.php:26
+msgctxt "post type add_new"
+msgid "Add New Template"
+msgstr ""
+
+#: includes/database.php:27
+msgid "Add New Template"
+msgstr ""
+
+#: includes/database.php:28
+msgid "Edit Certificate Template"
+msgstr ""
+
+#: includes/database.php:29
+msgid "New Certificate Template"
+msgstr ""
+
+#: includes/database.php:30
+msgid "Certificate Templates"
+msgstr ""
+
+#: includes/database.php:31
+msgid "View Certificate Template"
+msgstr ""
+
+#: includes/database.php:32
+msgid "Search Certificate Templates"
+msgstr ""
+
+#: includes/database.php:33
+msgid "No certificate templates found"
+msgstr ""
+
+#: includes/database.php:34
+msgid "No certificate templates found in Trash"
+msgstr ""
+
+#: includes/database.php:36
+msgid "Certificates"
+msgstr ""
+
+#: includes/database.php:59
+msgid "Certificate Background Image <small>&ndash; Used to lay out the certificate fields found in the Certificate Data box.</small>"
+msgstr ""
+
+#: includes/database.php:69
+msgid "Certificate Settings"
+msgstr ""
+
+#: includes/database.php:161
+msgid "Set certificate image"
+msgstr ""
+
+#: includes/database.php:162
+msgid "Remove certificate image"
+msgstr ""
+
+#: includes/database.php:231
+msgid "Size"
+msgstr ""
+
+#: includes/database.php:233
+msgid "Bold"
+msgstr ""
+
+#: includes/database.php:237
+msgid "Italic"
+msgstr ""
+
+#: includes/database.php:243
+msgid "Center Align"
+msgstr ""
+
+#: includes/database.php:247
+msgid "Border"
+msgstr ""
+
+#: includes/database.php:311
+msgid "Remove Position"
+msgstr ""
+
+#: includes/frontend.php:20
+msgid "Download Certificate"
+msgstr ""
+
+#: templates/download-certificate.php:16
+#: templates/single-academy_certificate.php:16
+msgid "You must set a certificate_template primary image before you can preview"
+msgstr ""
